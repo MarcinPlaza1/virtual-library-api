@@ -1,2 +1,3 @@
-npm install
-node index.js
+Commands:
+1. npm install
+2. node index.js
